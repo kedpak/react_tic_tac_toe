@@ -1,2 +1,6 @@
-# react_tic_tac_toe
-# react_tic_tac_toe
+# React Tic Tac Toe Game
+
+# Description
+React tutorial of making simply tic tac toe game. Practicing using components basics for React.js
+
+
